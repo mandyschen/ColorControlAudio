@@ -19,8 +19,8 @@ while True:
     total_green = 0
     total_red = 0
 
-    for row in range(0, 700):
-        for col in range(0, 700):
+    for row in range(0, width):
+        for col in range(0, height):
             b,g,r = (frame[row, col])
             total_blue += b
             total_green += g
