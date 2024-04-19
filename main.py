@@ -8,8 +8,8 @@ vid = cv2.VideoCapture(0)
   
 while True: 
 
-    width  = int(vid.get(3)) 
-    height = int(vid.get(4)) 
+    width  = int(cv2.CAP_PROP_FRAME_WIDTH) 
+    height = int(cv2.CAP_PROP_FRAME_WIDTH) 
   
     _, frame = vid.read() 
   
