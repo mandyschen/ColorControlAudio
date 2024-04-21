@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 from PIL import Image
 
-image = np.array(Image.open('OIP.jpg')).astype(np.uint8)
+image = np.array(Image.open('hellokitty.jpg')).astype(np.uint8)
 
 sobel_x = np.array([[ -1, 0, 1],
                     [ -2, 0, 2],
