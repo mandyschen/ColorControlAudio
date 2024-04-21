@@ -2,10 +2,7 @@
 Written for Math 214 Final Project.
 
 
-main.py  
-
----
-
+## main.py  
 **Red** decreases the volume.  
 **Green** increases the volume.  
 **Blue** mutes the volume.  
