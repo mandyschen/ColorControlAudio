@@ -8,7 +8,14 @@ Our main project. We use edge detection on images.
 Original image.  
 
 ![OIP-sobel_gray](https://github.com/mandyschen/Math214Project3/assets/100249839/03f5a992-2c22-4628-ab81-2d00b6d42aa0)
-After applying edge detection.  
+After applying edge detection. 
+
+## video.py  
+An add-on to our project. Edge detection using in built open-cv library functions in videos.  
+
+https://github.com/mandyschen/Math214Project3/assets/100249839/1661934a-72d2-4921-8e04-9660c44bf24c
+
+
 
 ## main.py  
 **Red** decreases the volume.  
