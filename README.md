@@ -1,4 +1,4 @@
-# Color Control Audio  
+# Math214 Project 3: Computer Vision
 Written for Math 214 Final Project.
 
 **Red** decreases the volume.  
