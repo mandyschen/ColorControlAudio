@@ -2,13 +2,12 @@
 Written for Math 214 Final Project.
 
 ## gray.py  
-Our main project.  
-
-Use edge detection on images.  
+Our main project. We use edge detection on images.  
+  
 ![OIP](https://github.com/mandyschen/Math214Project3/assets/100249839/1382dd49-d661-4bb5-9eb3-cbfe093f6872)
 Original image.  
 
-![OIP-sobel_gray](https://github.com/mandyschen/Math214Project3/assets/100249839/03f5a992-2c22-4628-ab81-2d00b6d42aa0)  
+![OIP-sobel_gray](https://github.com/mandyschen/Math214Project3/assets/100249839/03f5a992-2c22-4628-ab81-2d00b6d42aa0)
 After applying edge detection.  
 
 ## main.py  
