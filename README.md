@@ -18,6 +18,7 @@ https://github.com/mandyschen/Math214Project3/assets/100249839/1661934a-72d2-492
 
 
 ## main.py  
+Fun extra use of cv2! Uses addition of entries within matrices.  
 **Red** decreases the volume.  
 **Green** increases the volume.  
 **Blue** mutes the volume.  
