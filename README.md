@@ -1,6 +1,10 @@
 # Math214 Project 3: Computer Vision
 Written for Math 214 Final Project.
 
+## gray.py  
+Our main project.  
+
+Use edge detection on images.  
 
 ## main.py  
 **Red** decreases the volume.  
